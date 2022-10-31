@@ -6,6 +6,6 @@ stringData:
   # TLS key pair for *.bigbang.dev is used as an example for demo purposes
   values.yaml: |-
     registryCredentials:
-  - registry: registry1.dso.mil
-    username: Richard_Posada
-    password: U0qXqm8dPsHsRb9rMPTCu4tS2Jti6cV6
+    - registry: registry1.dso.mil
+      username: replace-with-your-iron-bank-user=
+      password: replace-with-your-iron-bank-personal-access-token
