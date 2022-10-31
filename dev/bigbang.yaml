@@ -10,7 +10,7 @@ metadata:
   namespace: bigbang
 spec:
   interval: 1m
-  url: https://replace-with-your-git-repo.git
+  url: https://github.com/richposada/bigbangriposada.git
   ref:
     branch: replace-with-your-branch
   secretRef:
